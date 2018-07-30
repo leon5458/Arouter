@@ -1,0 +1,1 @@
+include ':app', ':arount-hp', ':arount-news', ':arount-me', ':arount-set'
